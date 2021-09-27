@@ -1,0 +1,13 @@
+.first,.second {
+  background-color: lightblue;
+}
+  
+body {
+  background-image: url("bgimg.gif");
+  background-position:fixed;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
